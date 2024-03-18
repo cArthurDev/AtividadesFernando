@@ -1,6 +1,6 @@
 package Tarefa5;
 
-public class Exercico460 {
+public class Exercicio460 {
     public static void main(String[] args) {
         int a, c;
         for (c = -1; c < 2; c++) {
