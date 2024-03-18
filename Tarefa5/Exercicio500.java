@@ -1,7 +1,7 @@
 package Tarefa5;
 import java.util.Scanner;
 
-public class Exc500 {
+public class Exercicio500 {
     public static void main(String[] args) {
         int[] num = new int[5];
         int[] numl = new int[5];
