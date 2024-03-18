@@ -1,7 +1,7 @@
 package Tarefa5;
 import java.util.Scanner;
 
-public class Exc490 {
+public class Exercicio490 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] nome = new String[10];
