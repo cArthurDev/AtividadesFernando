@@ -1,7 +1,7 @@
 package Tarefa5;
 import java.util.Scanner;
 
-public class Exc470 {
+public class Exercicio470 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int num, pri;
