@@ -2,7 +2,7 @@ package Tarefa5;
 
 import java.util.Scanner;
 
-public class Exc480 {
+public class Exercicio480 {
       public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n, x;
